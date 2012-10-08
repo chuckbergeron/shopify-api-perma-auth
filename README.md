@@ -1,4 +1,4 @@
-### Shopify API Perma-Auth
+# Shopify API Perma-Auth
 
 ## Description
 
@@ -6,7 +6,7 @@
 
 Sets up your [Shopify API-enabled app](https://github.com/Shopify/shopify_app) to store permanent tokens, to make requests on behalf of a store anytime.
 
-## install
+## Installation
 
 ```sh
 rake shopify-api-perma-auth:install

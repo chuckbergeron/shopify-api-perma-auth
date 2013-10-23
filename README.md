@@ -1,6 +1,45 @@
 # Shopify API Perma-Auth
 
-## This gem is a work in progress! ##
+                                            ..
+                                         ,o""""o
+                                      ,o$"     o
+                                   ,o$$$                                 
+                                 ,o$$$'
+                               ,o$"o$'
+                             ,o$$"$"'   
+                          ,o$"$o"$"'    
+                       ,oo$"$"$"$"$$`                      ,oooo$$$$$$$$oooooo.  
+                    ,o$$$"$"$"$"$"$"o$`..             ,$o$"$$"$"'            `oo.o
+                 ,oo$$$o"$"$"$"$  $"$$$"$`o        ,o$$"o$$$o$'                 `o
+              ,o$"$"$o$"$"$"$  $"$$o$$o $$o`o   ,$$$$$o$"$$o'                    $
+            ,o"$$"'  `$"$o$" o$o$o"  $$$o$o$oo"$$$o$"$$"$o"'                     $
+         ,o$"'        `"$ "$$o$$" $"$o$o$$"$o$$o$o$o"$"$"`""o                   ' 
+       ,o$'          o$ `"$"$o "$o$$o$$$"$$$o"$o$$o"$$$    `$$  
+      ,o'           (     `" o$"$o"$o$$$"$o$"$"$o$"$$"$ooo|  `` 
+     $"$             `    (   `"o$$"$o$o$$ "o$o"   $o$o"$"$    )
+    (  `                   `    `o$"$$o$" "o$$     "o /|"$o"
+     `                           `$o$$$$"" o$      "o$\|"$o'
+                                  `$o"$"$ $ "       `"$"$o$
+                                   "$$"$$ "oo         ,$""$ 
+                                   $"$o$$""o"          ,o$"$
+                                   $$"$$"$ "o           `,",
+                         ,oo$oo$$$$$$"$o$$$ ""o           
+                      ,o$$"o"o$o$$o$$$"$o$$oo"oo
+                    ,$"oo"$$$$o$$$$"$$$o"o$o"o"$o o
+                   ,$$$""$$o$,      `$$$$"$$$o""$o $o               
+                   $o$o$"$,          `$o$"$o$o"$$o$ $$o             
+                  $$$o"o$$           ,$$$$o$$o"$"$$ $o$$oo      ,   
+                  "$o$$$ $`.        ,"$$o$"o$""$$$$ `"$o$$oo    `o
+                  `$o$o$"$o$o`.  ,.$$"$o$$"$$"o$$$$   `$o$$ooo    $$ooooooo
+                    `$o$"$o"$"$$"$$"$"$$o$$o"$$o"        `"$o$o            `"o
+                       `$$"$"$o$$o$"$$"$ $$$  $ "           `$"$o            `o
+                          `$$"o$o"$o"$o$ "  o $$$o            `$$"o          ,$
+                             (" ""$"""     o"" "o$o             `$$ooo     ,o$$
+                                  $$"""o   (   "$o$$$"o            `$o$$$o$"$'
+                                    ) ) )           )  ) )            ` "'
+
+
+Here you will find a few dragons and such. I was heading down this path as a proof of concept but didn't get too far.
 
 If you'd like to contribute, there's still a few things left to accomplish. Namely, the DB migration generator, and the middleware to handle the DB insert after the OAuth process finalizes.
 
